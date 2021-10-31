@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Herrmiddagssidan</title>
+    <meta content="mikael.hedstrom@gmail.com" name="author" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link data-require="bootstrap-css@3.3.6" data-semver="3.3.6" rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <script>
+      document.write('<base href="' + document.location + '"/>');
+    </script>
+    <link href="http://fonts.googleapis.com/css?family=RobotoDraft:100,300,400,500,700,400italic" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+    
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+ </head>
+  
+  <body>
+
+    
+      <br/>
+
+      <!-- declare the app name and where to render the result -->
+      <div ng-app="blog" ng-view></div>
+      <script data-require="angular.js@1.4.8" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js" data-semver="1.4.8"></script>
+      <!-- the sanitize module is needed for passing html to template -->
+      <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-sanitize.js"></script>
+      <!-- the route module is needed for the routing service -->
+      <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.min.js"></script>
+      <script src="app.js"></script>
+      <script src="config.js"></script>
+      <script src="factories.js"></script>
+      <script src="controllers.js"></script>
+      <script src="http://t1.extreme-dm.com/f.js" id="eXF-hedismik-2" async defer></script>
+  </body>
+</html>
