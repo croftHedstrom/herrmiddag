@@ -1,0 +1,542 @@
+{
+	"cols": [{
+		"id": "A",
+		"label": "",
+		"type": "number",
+		"pattern": "General"
+	}, {
+		"id": "B",
+		"label": "",
+		"type": "string"
+	}, {
+		"id": "C",
+		"label": "",
+		"type": "string"
+	}, {
+		"id": "D",
+		"label": "",
+		"type": "string"
+	}, {
+		"id": "E",
+		"label": "",
+		"type": "string"
+	}, {
+		"id": "F",
+		"label": "",
+		"type": "string"
+	}, {
+		"id": "G",
+		"label": "",
+		"type": "string"
+	}, {
+		"id": "H",
+		"label": "",
+		"type": "string"
+	}],
+	"rows": [{
+		"c": [{
+			"v": 80.0,
+			"f": "80"
+		}, {
+			"v": "Mattias Lachner och Mikael Hedström"
+		}, {
+			"v": "Friterade samosas med myntasås"
+		}, {
+			"v": "Indisk lamgryta med ris och sallad."
+		}, {
+			"v": "Ljumen gulab jamon med glass"
+		}, {
+			"v": "Strålande väder var beställt och detta med dagens första aktivitet, frisbeegolf var en given succé. Efter tvåtimmars kastande väntade ägg och falukorvsmacka på oss vid gubbarnas. Dagens andra aktivitet; bastu, bad och allmän relax, njutandes en sol likt en sommardag."
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 78.0,
+			"f": "78"
+		}, {
+			"v": "Johannes Jarnung och Fredrik Håkansson"
+		}, {
+			"v": "Avocado"
+		}, {
+			"v": "Pytt i Panna"
+		}, {
+			"v": "Glass"
+		}, {
+			"v": "Virtuell middag"
+		}, {
+			"v": "Dan, Fredrik D, Fredrik H, Jarnung, Jonas, Andersson, Björn, Enander, Lindblad, Mattias J, Hedis, Meister, Eken och Peter"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 77.0,
+			"f": "77"
+		}, {
+			"v": "Mattias Johanson och Roberth Carlsson"
+		}, {
+			"v": "Toast Skagen med närproducerade råvaror från Läjet"
+		}, {
+			"v": "Havskräftor från\nLäjet, Västerbottenpaj, Baguette, Aioli"
+		}, {
+			"v": "Chokladmousse toppad med grädde"
+		}, {
+			"v": "Samling i ett lite kyligt Varberg, på träimpregneringen. Snabb färd upp till Ästad vingård (igen) för en dagens lunch, oxkind. Aktivitet nummer två: Spa med undervattenbastu. "
+		}, {
+			"v": "Dan, Fredrik D, Håkis, Jarnung, Jonas, Björn, Enander, Lindblad, Mattias J, Lachner, Hedis, Eken och Roberth"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 76.0,
+			"f": "76"
+		}, {
+			"v": "Niklas Ekengren och Martin Björn"
+		}, {
+			"v": "Italienska delikatesser; Melon, parma och salamis."
+		}, {
+			"v": "Blandade indiska rätter (take away)"
+		}, {
+			"v": "Vaniljglass med\nvarma sommarbär\n(hallon och blåbär)."
+		}, {
+			"v": "Samling i kärleksparkens parkering kl 11:15 på stålhäst. Dagens första aktivitet: fångarna på Ästad bondgård med Veronkan som ledare. aktivitet nummer två: att åka zipline från toppen av Ästad bondgård!"
+		}, {
+			"v": "Fredrik D, Fredrik H, Lennert, Andersson, Björn, Enander, Lindblad, Mattias J, Lachner, Hedis, Meister, Eken och Peter"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 75.0,
+			"f": "75"
+		}, {
+			"v": "Mikael Meister och Martin Enander"
+		}, {
+			"v": "Buffé från Varbergscatering."
+		}, null, null, {
+			"v": "Aktivitet I:Guidad rundvandring kring KSA. Aktivitet II:Subbe ölbryggeri."
+		}, {
+			"v": "Dan, Fredrik D, Fredrik H, Jonas, Lennert, Andersson, Björn, Enander, Lindblad, Mattias J, Lachner, Meister, Eken och Peter"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 74.0,
+			"f": "74"
+		}, {
+			"v": "Martin Lindblad och Peter Keyser"
+		}, {
+			"v": "Laxrullader på rostad toast med krispig sallad med Oppegårds öl."
+		}, {
+			"v": "Mustig Fisk och skaldjursgryta med safran; Dryck: Lindemanns Shiraz Cabernet"
+		}, {
+			"v": "Fransk äppelkaka med grädde, kaffe och kanadensisk whiskey."
+		}, {
+			"v": "Samling i Varberg för en färd upp till Halden i Norge. Dagen började med Thailändsk mat för att senare följas upp med av en guidad tur på Fredrikstens fästning. Aktivitet nummer två: Springpass på löpband. Efter en kväll med diverse hemligheter (som stannar i Halden) börjar söndagen med frukost och sedan hemfärd till ett lite billigare Sverige."
+		}, {
+			"v": "Dan, Jarnung, Andersson, Enander, Lindblad, Lachner, Hedis, Meister och Peter. Hemlig Gäst: Frank Ludwig"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 73.0,
+			"f": "73"
+		}, {
+			"v": "Jonas Nordlund och Mikael Hedström"
+		}, {
+			"v": "Italiens buffé"
+		}, {
+			"v": "Italiensk buffé"
+		}, {
+			"v": "Crème brulee"
+		}, {
+			"v": "Samling vid Påskbergsskolan kl 12.00."
+		}, {
+			"v": "Dan, Fredrik D, Jarnung, Jonas, Andersson, Björn, Enander, Lindblad, Lachner, Hedis, Eken och Roberth"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 72.0,
+			"f": "72"
+		}, {
+			"v": "Mattias Lachner och Dan Kihlström"
+		}, {
+			"v": "Bruschetta\nmed oliver och salami"
+		}, {
+			"v": "Bouef bourgingon med ris och sallad."
+		}, {
+			"v": "Frödinge paj med vaniljsås"
+		}, {
+			"v": "Samling vid Tullhuset i hamnen kl 10.30. Var ombytta för lättare utomhus fys och ta med kläder för lättare inomhusfys löd kallelse!  Dagens första aktivitet: Curling i Göteborg. Därefter en timma flex på friskis och svettis.\n"
+		}, {
+			"v": "Dan, Fredrik D, Fredrik H, Jarnung, Jonas, Lennert, Andersson, Björn, Enander, Lindblad, Mattias J, Lachner, Hedis, Meister, Eken och Peter"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 71.0,
+			"f": "71"
+		}, {
+			"v": "Magnus Lennartsson och Martin Andersson"
+		}, {
+			"v": "Cava med chips"
+		}, {
+			"v": "Buffé med fläskfilé, ankbröst, lax, räkröra, ostar mm"
+		}, {
+			"v": "Choladmouse med bär"
+		}, {
+			"v": "Samling 13.00 vid kallis. Dagens första \u0022aktivitet\u0022 hälso och kostinformation av Johanna. Därefter 1,5 timmar löpning och plushöjande jagande av Johanna i form av backträning. \n"
+		}, {
+			"v": "Dan, Fredrik D, Fredrik H, Jarnung, Lennert, Andersson, Björn, Enander, Lindblad, Mattias J, Lachner, Hedis och Eken"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 70.0,
+			"f": "70"
+		}, {
+			"v": "Mattias Johanson och Fredrik Håkansson"
+		}, {
+			"v": "Laxtallrik med rökt och gravad lax"
+		}, {
+			"v": "Grilltallrik med rökt fläsk och grillad entrecot med melonsallad"
+		}, {
+			"v": "Panacotta med hallon och blåbär"
+		}, {
+			"v": "Samling 12.15 vid simhallen. Dagens första \u0022aktivitet\u0022 korvgrillning med öl, därefter 1,5 timmar go-cart. Dagens 4 \u0022aktivitet\u0022 rökt ost med hjortronsylt!\n"
+		}, {
+			"v": "Fredrik D, Fredrik H, Jonas, Björn, Enander, Lindblad, Mattias J, Hedström, Meister och Peter "
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 69.0,
+			"f": "69"
+		}, {
+			"v": "Fredrik Donaldsson och Johannes Jarnung"
+		}, {
+			"v": "Avokado sallad med urgröpt gurka"
+		}, {
+			"v": "Lax, potatis med sås"
+		}, {
+			"v": "Fantastiskt chokladtårta med vanilj"
+		}, {
+			"v": "Samling hos Donald 12.00. Dagens aktivitet Paddletennis"
+		}, {
+			"v": "Dan, Fredrik D, Jarnung, Jonas, Lennert, Andersson, Björn, Enander, Lindblad, Mattias J, Hedis, Meister, Eken, Peter och Roberth"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 68.0,
+			"f": "68"
+		}, {
+			"v": "Roberth Carlsson och Martin Enander"
+		}, {
+			"v": "Kantarelltoast med lagrad sveciaost och lufttorkad skinka."
+		}, {
+			"v": "Boeuf Bourguignon, pressad potatis och grönsallad"
+		}, {
+			"v": "Key Lime Pie"
+		}, {
+			"v": "Samling vid brännvinsringen 11.00. För vidare färd ner till Halmstad. Dagens aktivitet Prison Island."
+		}, {
+			"v": "Dan, Fredrik D, Jarnung, Jonas, Andersson, Björn, Enander, Lindblad, Mattias J, Lachner, Meister, Eken och Roberth"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 67.0,
+			"f": "67"
+		}, {
+			"v": "Niklas Ekengren och Peter Keyser"
+		}, {
+			"v": "Plockmat typ korv"
+		}, {
+			"v": "Grillade spett med sallat"
+		}, {
+			"v": "Vattenmelon"
+		}, {
+			"v": "11.30 exakt, samling vid kärleksparken för vidare färd mot Ullared! Dagens första aktivitet: Höghöjdsbana. Aktivitet #2 sedvanligt bad på gubbarnas.  "
+		}, {
+			"v": "Fredrik D, Andersson, Björn, Enander, Lindblad, Herr J(k), Lachner, Hedis, Meister, Eken och Peter"
+		}, {
+			"v": "Oliver"
+		}]
+	}, {
+		"c": [{
+			"v": 66.0,
+			"f": "66"
+		}, {
+			"v": "Mikael Meister och Jonas Nordlund"
+		}, {
+			"v": "Oliver, nötter och div snacks"
+		}, {
+			"v": "Rantzauplanka med diverse godsaker"
+		}, {
+			"v": "Pannacotta med hjortronsylt"
+		}, {
+			"v": "Samling vid Furubergsskolan för första aktiviteten salsa! Aktivitet 2: bad på kallis. Aktivitet 3: quiz med massa frågor "
+		}, {
+			"v": "Alla 17! Dan, Fredrik D, Fredrik H, Jarnung, Jonas, Lennert, Andersson, Björn, Enander, Lindblad, Mattias J, Lachner, Hedis, Meister, Eken, Peter och Roberth"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 65.0,
+			"f": "65"
+		}, {
+			"v": "Dan Khilström och Magnus Lennartsson "
+		}, {
+			"v": "Toast med lax"
+		}, {
+			"v": "Jätteplanka med diverse godsaker"
+		}, {
+			"v": "Glass med varma bär"
+		}, {
+			"v": "Samling vid Furuberg för vidare färd mot boxning! Efter tuff fight avsvalkande bad på kallis"
+		}, {
+			"v": "Dan, Jarnung, Jonas, Lennert, Andersson, Björn, Enander, Lindblad, Lachner, Hedis, Meister, Eken, Peter och Roberth"
+		}, {
+			"v": "Pilsk"
+		}]
+	}, {
+		"c": [{
+			"v": 64.0,
+			"f": "64"
+		}, {
+			"v": "Martin Lindblad och Fredrik Håkansson "
+		}, {
+			"v": "Laxmouse med kavring "
+		}, {
+			"v": "Grillad flankstek med matig sallad "
+		}, {
+			"v": "Citronpaj med grädde "
+		}, {
+			"v": "Samling vid Rantzauklippan 12.15 Efter kort genomgång av sveriges historia var det dags för första aktiviteten: tennis i brottet. Aktivitet nr 2 bad på gubbarnas "
+		}, {
+			"v": "Dan, Donald, Fredrik, Håkis, Jarnung, Lennert, Andersson, Björn, Enander, Lindblad, Lachner, Hedis, Meister, Peter och Roberth"
+		}, {
+			"v": "Nils"
+		}]
+	}, {
+		"c": [{
+			"v": 63.0,
+			"f": "63"
+		}, {
+			"v": "Martin Björn och Mikael Hedström"
+		}, {
+			"v": "FörFörrätt: Heta chips, Mexikansk böndipp -Förrätt: Räksmörgås "
+		}, {
+			"v": "Fläskfilegryta med ris och sallad "
+		}, {
+			"v": "Jordgubbs och rabarberpaj med vaniljsås, -EfterEfterrätt: Glory hole choklad med kaffe och whisky"
+		}, {
+			"v": "Samling vid pressbyrån 12.00. Sedan färd mot bruket för bowling och biljard. Efter detta var följande på schemat: Aktivitet #2 kallbad. Aktivitet #3 Trolleri med Jonathan Larsson "
+		}, {
+			"v": "Dan, Håkis, Jarnung, Lennert,Andersson, Björn, Enander, Lindblad, Lachner, Hedis och Roberth"
+		}, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 62.0,
+			"f": "62"
+		}, {
+			"v": "Mattias Lachner och Fredrik Donaldsson "
+		}, {
+			"v": "Kavringstårta "
+		}, {
+			"v": "Oxkött med krämig potatisgratäng och sallad "
+		}, {
+			"v": "Hemlagad glass med bär "
+		}, {
+			"v": "Samling hos Donald för vidare färd mot påskbergsskolan \n Första aktivitet dubbelpingis och sedan slangbellsskytte "
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 61.0,
+			"f": "61"
+		}, {
+			"v": "Roberth Carlsson och Martin Andersson"
+		}, {
+			"v": "Bruschetta med tomat och lök"
+		}, {
+			"v": "Grillad nötytterfilé med potatis och sallad"
+		}, {
+			"v": "Chokladglass med kaffe"
+		}, {
+			"v": "Samling hos Roberth kl 13.00: Första aktiviteten fotbollsgolf, speedskytte och fotboll.\nSedvanlig smörgås med välsignelse från pingstkyrkan.\nAktivitet nr.2 SUP Stand Up Paddling."
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 60.0,
+			"f": "60"
+		}, {
+			"v": "Mikael Meister och Mattias Johansson "
+		}, {
+			"v": "Toast skagen med riktig öl."
+		}, {
+			"v": "Grillade rev och grillad entrecote med potatisgratäng"
+		}, {
+			"v": "Nutellaglass"
+		}, {
+			"v": "Samling vid societen för vidare transport mot Veddige.\nFörsta stopp byaregårdens bryggeri, provsmakning av \u0022riktig\u0022 öl. Dagens andra aktivitet, på spåret med frågor om Varberg"
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 59.0,
+			"f": "59"
+		}, {
+			"v": "Jonas Karlsson Nordlund och Johannes Jarnung"
+		}, {
+			"v": "Bruschetta"
+		}, {
+			"v": "Fylld kycklingfilé"
+		}, {
+			"v": "Citronpaj med maräng"
+		}, {
+			"v": "Samling vid PS, för vidare färd mot \u0022bodycykling\u0022"
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 58.0,
+			"f": "58"
+		}, {
+			"v": "Martin Enander och Magnus Lennartsson "
+		}, {
+			"v": "Plockmat, korv och chips"
+		}, {
+			"v": "Buffé med fläskfilé"
+		}, {
+			"v": "Glass med jordgubbar "
+		}, {
+			"v": "Samling hos Enander, Taxi till vattenskidåkning "
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 57.0,
+			"f": "57"
+		}, {
+			"v": "Dan Karlsson och Niklas Ekengren "
+		}, {
+			"v": "Tapas "
+		}, {
+			"v": "Chilligryta med ris "
+		}, {
+			"v": "Glass med bär"
+		}, {
+			"v": "Thaiboxning + lång cykeltur "
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 56.0,
+			"f": "56"
+		}, {
+			"v": "Mattias Lachner och Martin Lindblad "
+		}, {
+			"v": "Ostpaj med sallad"
+		}, {
+			"v": "Lax, potatis med sås"
+		}, {
+			"v": "Äpplepaj med vaniljsås"
+		}, {
+			"v": "Samling vid Varbergs simhall medelst piratlapp och simglasögon. Riktig aktivitet: pistolskytte + kallbad"
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 55.0,
+			"f": "55"
+		}, {
+			"v": "Martin Björn Fredrik Håkansson "
+		}, {
+			"v": "Knäckebröd med sill"
+		}, {
+			"v": "Grillad Entrecote med SALLAD + potatis "
+		}, {
+			"v": "Havreflarnsbåt med glass och jordgubbar "
+		}, {
+			"v": "Samling hos Martin Björn kl 11.00, dagens aktivitet: Golf. "
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 54.0,
+			"f": "54"
+		}, {
+			"v": "Roberth Carlsson och Fredrik Donaldsson "
+		}, {
+			"v": "Indiskt Bröd"
+		}, {
+			"v": "Indisk gryta med ris "
+		}, {
+			"v": "Cheese Cake "
+		}, {
+			"v": "Rundvandring på Easter Mountain School och sedan handbollsturnering."
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 53.0,
+			"f": "53"
+		}, {
+			"v": "Mikael Meister och Peter Keyser"
+		}, {
+			"v": "Varmrökt lax med senap & kaffe på kavring "
+		}, {
+			"v": "Grillade fläskfilétournedos på spett serveras med rostad vitlökscrème, rödvinssky, maximpotatis & paprika-olivsallad"
+		}, {
+			"v": "Vitchoklad pannacotta med stjärnanis marinerade apelsiner"
+		}, {
+			"v": "Samling vid Peder skrivares för sedan att spela Bridge"
+		}, null, {
+			"v": null
+		}]
+	}, {
+		"c": [{
+			"v": 52.0,
+			"f": "52"
+		}, {
+			"v": "Mikael Hedström och Martin Andersson "
+		}, {
+			"v": "Kräftröra med västerbottenost på kavring"
+		}, {
+			"v": "Qinouasallad med marinerad fläskfile "
+		}, {
+			"v": "Äggtoddy ala mannerheim "
+		}, {
+			"v": "Samling hos Andersson 13.00 aktivitet: Havskajak"
+		}, null, {
+			"v": null
+		}]
+	}],
+	"parsedNumHeaders": 0
+	}
